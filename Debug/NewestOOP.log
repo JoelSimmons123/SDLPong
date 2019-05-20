@@ -1,0 +1,14 @@
+﻿  Ball.cpp
+c:\users\joels\desktop\newestoop\newestoop\newestoop\ball.cpp(63): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\joels\desktop\newestoop\newestoop\newestoop\ball.cpp(64): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Button.cpp
+  Enemy.cpp
+  Player.cpp
+  Score.cpp
+  ScrollBkg.cpp
+c:\users\joels\desktop\newestoop\newestoop\newestoop\scrollbkg.cpp(31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\joels\desktop\newestoop\newestoop\newestoop\scrollbkg.cpp(34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Sprite.cpp
+  main.cpp
+  Generating Code...
+  NewestOOP.vcxproj -> C:\Users\JoelS\Desktop\NewestOOP\NewestOOP\Debug\NewestOOP.exe
